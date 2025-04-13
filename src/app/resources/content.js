@@ -50,7 +50,7 @@ const home = {
   headline: <>Web Developer and builder</>,
   subline: (
     <>
-      I'm Kezman, a design engineer at <InlineCode>FLY</InlineCode>, where I craft intuitive
+      I'm Kezman, a design engineer at <InlineCode>NextJs</InlineCode>, where I craft intuitive
       <br /> user experiences. After hours, I build my own projects.
     </>
   ),

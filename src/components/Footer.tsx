@@ -28,12 +28,12 @@ export const Footer = () => {
           <Text paddingX="4">{person.name}</Text>
           <Text onBackground="neutral-weak">
             {/* Usage of this template requires attribution. Please don't remove the link to Once UI. */}
-            / Build your portfolio with{" "}
+            / Studied with{" "}
             <SmartLink
               style={{ marginLeft: "-0.125rem" }}
-              href="https://once-ui.com/templates/magic-portfolio"
+              href="https://masoemuniversity.ac.id/"
             >
-              Once UI
+              Ma'soem
             </SmartLink>
           </Text>
         </Text>
